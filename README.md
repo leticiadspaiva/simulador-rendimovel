@@ -5,7 +5,7 @@ Este projeto é um simulador simples de investimentos em Fundos Imobiliários (F
 - Valor total investido ao longo dos anos
 - Patrimônio acumulado
 - Dividendos mensais estimados
-- 
+
 ## Funcionalidades
 - Entradas: salario, rendimento_carteira, sugestão_investimento, aporte, qtd_anos, taxa_mensal
 - Saídas: patrimônio, dividendo_mensal
